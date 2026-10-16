@@ -1,3 +1,20 @@
+# AirBnB Clone - The Console (v2)
+
+<existing project description stays here>
+
+## Authors
+
+* **Original authors** - Justin Majetich and the original contributors (see `AUTHORS` file if present)
+* **<Your Name>** - [GitHub](https://github.com/<your-username>) - <your-email>
+* **<Teammate Name, if any>** - [GitHub](https://github.com/<teammate>)
+
+## About this fork
+
+This repository (`alu-AirBnB_clone_v2`) is a fork of
+[justinmajetich/AirBnB_clone](https://github.com/justinmajetich/AirBnB_clone),
+extended as part of the ALU/Holberton curriculum with file storage,
+database storage (MySQL/SQLAlchemy), and web deployment tasks.
+
 <center> <h1>HBNB - The Console</h1> </center>
 
 This repository contains the initial stage of a student project to build a clone of the AirBnB website. This stage implements a backend interface, or console, to manage program data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
